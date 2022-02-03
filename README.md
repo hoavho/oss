@@ -1,2 +1,2 @@
 # oss
-Repo of Open Source Software
+Repo of Free and Open Source Software
